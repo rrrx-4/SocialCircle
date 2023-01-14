@@ -2,6 +2,6 @@
 Complete React MERN Full Stack Social Media App
 
 
-For users who are looking to contribute, I'm planning to possibly create a separate branch for community contributions and additional features as well as for improvements and fixes.
+A prototype social media app with generic functions such as likes, add/remove friends, posts, comments and friend lists, user profile and authentication.
 
-I haven't decided on the exact workflow I'll be using yet. But we'll get it out there soon!
+React, Redux, MUI for front-end. MongoDB, Express, Nodejs for back-end.
